@@ -1,4 +1,6 @@
 ---
+import CountUpCard from "../React/CountUpCard/CountUpCard";
+
 /**
  * * These are cards with a large number, and description below
  */
@@ -6,18 +8,18 @@
 interface Props {
 	largeText: string;
 	description: string;
+	duration?: number; // Añadido para controlar la duración de la animación
 	rest?: any; // catch-all for any additional parameters, such as "aria-label"
 }
 
-const { largeText, description, ...rest } = Astro.props as Props;
+const { largeText, duration = 2, description, ...rest } = Astro.props as Props;
 ---
 
 <div {...rest} class="flex flex-col gap-3 text-center">
-	<h3 class="font-decorative text-primary-500 text-[8rem] leading-none">
-		{largeText}
-	</h3>
-
-	<p class="description font-heading-1 pr-2 text-2xl">
-		{description}
-	</p>
+	<CountUpCard
+		largeText={largeText}
+		description={description}
+		duration={duration}
+		client:only="react"
+	/>
 </div>

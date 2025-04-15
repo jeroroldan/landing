@@ -1,5 +1,5 @@
 import { defineConfig } from "astro/config";
-
+import react from '@astrojs/react';
 import tailwindcss from "@tailwindcss/vite";
 import icon from "astro-icon"; // https://www.astroicon.dev/guides/upgrade/v1/
 import mdx from "@astrojs/mdx";
@@ -19,6 +19,7 @@ export default defineConfig({
 			],
 		}),
 		mdx(),
+		react(),
 		icon({
 			// I include only the icons I use. This is because if you use SSR, ALL icons will be included (no bueno)
 			// https://www.astroicon.dev/reference/configuration#include
