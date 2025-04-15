@@ -1,17 +1,17 @@
 ---
 title: Privacy Policy
-description: Example privacy policy for Blogsmith! The best starter blog template for Astro.
+description: Política de privacidad de ejemplo para Blogsmith! La mejor plantilla de blog inicial para Astro.
 ---
 
-_Last updated on Sep 9, 2023_
+Última actualización: 9 de septiembre de 2023
 
-This privacy policy sets out how Example LLC collects, processes, and uses your Personal Information through your use of our Services.
+Esta política de privacidad establece cómo Ejemplo LLC recopila, procesa y utiliza su Información Personal a través de su uso de nuestros Servicios.
 
-**This is purely for example. Please consult a lawyer for your own privacy policy.**
+**Esto es solo un ejemplo. Por favor, consulte a un abogado para su política de privacidad.**
 
 ## Personal Information Collection
 
-We only collect and use Personal Information to the extent necessary to provide you with the Services. We collect Personal Information for the Website to provide you with a better online experience.
+Solo recopilamos y utilizamos la Información Personal en la medida necesaria para proporcionarle los Servicios. Recopilamos Información Personal para el Sitio Web con el fin de ofrecerle una mejor experiencia en línea.
 
 ## Personal Information Retention
 

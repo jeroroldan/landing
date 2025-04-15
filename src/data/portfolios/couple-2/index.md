@@ -1,6 +1,6 @@
 ---
-title: A beachside celebration
-description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your beach wedding.
+title: Un festejo a la orilla del mar
+description: Las costas de arena, besadas por olas delicadas, ofrecieron un fondo tranquilo para tu casamiento playero.
 heroImage: ./couple-3-square.jpg
 date: "Jun 12 2024"
 location: Miami, Florida
@@ -14,5 +14,4 @@ images:
   ]
 order: 2
 ---
-
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Esta boda en Malibú fue un acontecimiento que quitaba el aliento. Las vistas montañosas espectaculares ofrecieron un fondo idílico. Las fotografías capturaron hermosamente los instantes íntimos, la energía viva y la atmósfera romántica general de la jornada. 

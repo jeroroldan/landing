@@ -1,6 +1,6 @@
 ---
-title: A mountain escape
-description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
+title: Una escapada a la montaña
+description: Una fuga a la montaña, convierte los instantes de tu boda en memorias perdurables entre las imponentes montañas californianas. 
 heroImage: ./couple-9-square.jpg
 date: "Aug 5 2024"
 location: Malibu, California
@@ -15,4 +15,4 @@ images:
 order: 1
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Esta boda en Malibú fue un acontecimiento que quitaba el aliento. Las vistas montañosas espectaculares ofrecieron un fondo idílico. Las fotografías capturaron hermosamente los instantes íntimos, la energía viva y la atmósfera romántica general de la jornada. 

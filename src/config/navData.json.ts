@@ -22,14 +22,14 @@ const navConfig: navItem[] = [
 		link: "/portfolio",
 	},
 	{
-		text: "Pricing",
+		text: "precios",
 		link: "/#pricing",
 	},
 	{
-		text: "Pages",
+		text: "servicios",
 		dropdown: [
 			{
-				text: "Portfolio",
+				text: "infantiles",
 				link: "/portfolio/couple-1",
 			},
 			{
@@ -37,7 +37,7 @@ const navConfig: navItem[] = [
 				link: "/privacy-policy/",
 			},
 			{
-				text: "Elements",
+				text: "Elementos",
 				link: "/elements/",
 			},
 			{

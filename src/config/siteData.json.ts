@@ -16,23 +16,23 @@ export interface SiteDataProps {
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "Horizon Photography",
+	name: "Fotografía Rosario",
 	// Your website's title and description (meta fields)
-	title: "Horizon - a beautiful photography website template made with Astro and Tailwind CSS",
+	title: "Fotografía Rosario | Capturando momentos inolvidables en bodas y eventos",
 	description:
-		"Get your next website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
+		"Servicio profesional de fotografía para bodas, compromisos y eventos especiales. Capturamos momentos únicos con un estilo elegante y natural que perdurará para siempre.",
 	useViewTransitions: true,
 	// Your information!
 	author: {
-		name: "Cosmic Themes",
-		email: "creator@cosmicthemes.com",
-		twitter: "Cosmic_Themes",
+		name: "Jenna Marie",
+		email: "contacto@fotografiacalifornia.com",
+		twitter: "FotografiaCali",
 	},
 
 	// default image for meta tags if the page doesn't have an image already
 	defaultImage: {
-		src: "/images/cosmic-themes-logo.jpg",
-		alt: "Cosmic Themes logo",
+		src: "/images/couple-1-square.jpg",
+		alt: "Fotografía California - Capturando momentos especiales",
 	},
 };
 
